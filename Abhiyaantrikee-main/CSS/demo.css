@@ -1,0 +1,70 @@
+/*body{
+    margin:0%;
+    padding:0%;
+    background: black url(/wallpaper-7.jpg) no-repeat top center fixed;
+    -webkit-background-size: cover;
+    background-size: cover;
+    
+}*/
+
+body { background-image: url('/wallpaper-9.jpg');
+     background-repeat: no-repeat;
+      background-position:center fixed;
+       -webkit-background-size: cover;
+        -moz-background-size: cover; 
+        -o-background-size: cover; 
+        background-size: cover; }​
+
+a{
+    padding:0.5% 2%;
+    text-decoration:none;
+    font-size: 20px;
+    color:ivory;
+}
+a:hover{
+    text-decoration: underline;
+}
+.header-link-left{
+    margin-left:45%;
+}
+
+.website-name{
+    padding-left:2%;
+    display:inline-block;
+    color: black;
+}
+.flexbox{
+    border: 3px solid black;
+    display:inline-block;
+    padding:1% 1%;
+    margin:1% 4%;
+    border-radius: 20px;
+    font-family: monospace;
+}
+.section-image{
+    position:center;
+    width: 200px;
+    height:200px;
+}
+
+.homepage-link{
+    text-decoration: none;
+    color:black;
+}
+h3{
+    text-align:center;
+}
+
+footer{
+    background-color:transparent;
+    color:ivory;
+}
+
+.homeimage
+{
+    width:25%;
+    margin-right:4.3% ;
+    margin-top: 2%;
+    
+}
+
